@@ -2,32 +2,6 @@
 using namespace std;
 int main()
 {
-//1
-//	int number;
-//	cout<<"enter positive number : ";
-//	cin>>number;
-//	while(number<0)//number less than 0 so it is negative
-//	{
-//		cout<<"you have entered negative number\n";
-//		cout<<"kindly enter positive number\n";
-//		cin>>number;//again take number if number is not positive		
-//	}
-//	cout<<number<<" is positive "<<endl;
-
-
-//2pasword validation
-//	int pasword;
-//	cout<<"enter pasword: ";
-//	cin>>pasword;
-//	while(pasword!=000000)
-//	{
-//		cout<<"you have entered wrong pasword\n";
-//		cout<<"enter pasword again: ";
-//		cin>>pasword;
-//	}
-//	cout<<"you entered correct pasword!\n";	
-
-//3
 	int range;
 	cout<<"enter number of your choice: ";
 	cin>>range;
@@ -38,11 +12,5 @@ int main()
 		cin>>range;
 	}
 	cout<<range<<" is in the range! "<<endl;
-	
-
-	
-
-
-
-
+	return 0;
 }
