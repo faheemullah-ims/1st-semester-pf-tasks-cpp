@@ -9,18 +9,5 @@ int main()
 	
 	cout<<letter1<<endl;
 	cout<<letter2<<endl;
-	return 0;
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	return 0;
 }
