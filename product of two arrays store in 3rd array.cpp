@@ -29,7 +29,7 @@ int main()
     cout << "Product stored in third array:\n";
     for(int i = 0; i < 5; i++)
     {
-        cout << c[i] << " ";
+        cout << c[i] << ",";
     }
 
     return 0;
