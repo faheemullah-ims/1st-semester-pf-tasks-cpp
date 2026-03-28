@@ -8,7 +8,7 @@ int main()
 					
 	int c=0;
 	char n;
-	cout<<"enter any character: ";
+	cout<<"enter any character:";
 	cin>>n;
 	for(int i=0;i<3;i++)
 	{
