@@ -12,7 +12,6 @@ int main()
     {
         cin >> arr[i];      // Store each entered integer into the array
     }
-
     // Initialize max and min values with the first element of the array
     int maxv = arr[0];      
     int minv = arr[0];      
