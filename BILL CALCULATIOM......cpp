@@ -8,7 +8,6 @@ int main()
 	double tip=(21.0/100)*mealcoastandtax;
 	double total=mealcoast+tax+tip;
 	
-	
 	cout<<"meal coast is "<<mealcoast<<" rupees."<<endl;
 	cout<<"the sales tax is "<<tax<<" rupees."<<endl;
 	cout<<"mealcost and tax is "<<mealcoastandtax<<" rupees "<<endl;
