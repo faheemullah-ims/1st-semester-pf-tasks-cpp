@@ -6,7 +6,6 @@ int main()
     int arr[10];            // Declare an array of size 10 to store integers
 
     cout << "---enter 10 integers---\n";   // Prompt the user to enter 10 integers
-
     // Input loop: read 10 integers from the user
     for(int i = 0; i < 10; i++)
     {
