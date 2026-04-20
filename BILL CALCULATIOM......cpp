@@ -15,5 +15,4 @@ int main()
 	cout<<"the tip is "<<tip<<" rupees. "<<endl;
 	cout<<"the total bill is "<<total<<" rupees. "<<endl;
 	return 0;	
-	
 }
